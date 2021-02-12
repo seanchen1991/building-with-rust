@@ -2,6 +2,6 @@
 
 Transcripts for podcast episodes of [Building with Rust][bwr].
 
-<img src="assets/logo.jpg" alt="Building with Rust" width="20"/>
+<img src="assets/logo.jpg" alt="Building with Rust" width="200"/>
 
 [bwr]: https://anchor.fm/building-with-rust
