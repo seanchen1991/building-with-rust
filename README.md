@@ -1,2 +1,7 @@
-# building-with-rust
-Transcripts for Building with Rust podcast episodes.
+# Building with Rust Transcripts
+
+Transcripts for podcast episodes of [Building with Rust][bwr].
+
+![Building with Rust](assets/logo.jpg)
+
+[bwr]: https://anchor.fm/building-with-rust
